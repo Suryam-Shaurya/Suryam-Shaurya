@@ -2,7 +2,9 @@
 ### 👋 Hi there, I'm Suryam Shaurya!<br><br>
 I'm a passionate learner exploring the realms of Machine Learning and Deep Learning. Currently delving into the fascinating world of Data Structures and Algorithms, along with diving deep into core Computer Science subjects.<br><br>
 ### 🚀 Quick Overview<br><br>
-- 🌱 Learning: Data Structures, Algorithms, Computer Science core subjects<br>- 👨‍💻 Tech Enthusiast: ML, Deep Learning<br>- 📚 Currently studying and experimenting with code<br><br>Let's connect, learn, and build amazing things together! 🚀<br>
+- 🌱 Learning: Data Structures, Algorithms, Computer Science core subjects<br>
+- 👨‍💻 Tech Enthusiast: ML, Deep Learning<br>
+- 📚 Currently studying and experimenting with code<br><br>Let's connect, learn, and build amazing things together! 🚀<br>
 
 
 ## 🌐 Socials:
